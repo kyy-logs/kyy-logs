@@ -1,0 +1,40 @@
+name: Generate Snake
+
+on:
+  # 每天固定时间运行（这里设置为 UTC 时间每天 0 点，北京时间早上 8 点）
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # 允许手动触发运行
+  workflow_dispatch:
+  
+  # 当 main 分支有代码推送时运行
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # 生成贪吃蛇 SVG
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # 将生成的 SVG 文件推送到 snake 分支
+      - name: push github-contribution-grid-snake.svg to the snake branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: snake
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
