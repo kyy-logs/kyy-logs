@@ -20,19 +20,11 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h3 align="center">⭐ Github Stats</h3>
 
-<a href="https://github.com/LovesAsuna"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LovesAsuna&theme=solarized"/></a>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LovesAsuna&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LovesAsuna&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LovesAsuna&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LovesAsuna&theme=solarized&utcOffset=8)
 
 ---
 
