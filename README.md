@@ -27,4 +27,4 @@
 
 <h3 align="center">❤️ Github Contribution</h3>
 
-<img src="https://raw.githubusercontent.com/LovesAsuna/LovesAsuna/snake/github-snake.svg"/>
+<img src="https://raw.githubusercontent.com/kyy-logs/kyy-logs/snake/github-snake.svg"/>
