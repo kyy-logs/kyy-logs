@@ -1,10 +1,10 @@
-<img src="header.png"/>
+
 
 📫 Now major in Computer Science
 
-🔭 I am now Working on [SimpleBot](https://github.com/LovesAsuna/SimpleBot), A bot for QQ based on RICQ framework!
+🔭 I am now Working on [SimpleBot](https://github.com/LovesAsuna/SimpleBot), A bot for vx based on RICQ framework!
 
-🌱 Now learning Rust & Go & Python | Algorithm
+🌱 Now learning  Go & Python | Algorithm
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Tools"/></div>
 
@@ -19,30 +19,12 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Languages"/></div>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 
----
-
-<h3 align="center">📊 Weekly development breakdown</h3>
-<!--START_SECTION:waka-->
-
-```txt
-Go               16 hrs 1 min          █████████████████████░░░░   84.50 %
-Other            1 hr 13 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-JavaScript       38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Bash             21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Docker           14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-```
-
-<!--END_SECTION:waka-->
-
 <h3 align="center">❤️ Github Contribution</h3>
 
 <img src="https://raw.githubusercontent.com/LovesAsuna/LovesAsuna/snake/github-snake.svg"/>
-
-<img src="https://raw.githubusercontent.com/LovesAsuna/LovesAsuna/profile-3d/profile-night-rainbow.svg"/>
