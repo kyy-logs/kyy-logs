@@ -2,8 +2,7 @@
 
 📫 Now major in Computer Science
 
-🔭 I am now Working on [SimpleBot](https://github.com/LovesAsuna/SimpleBot), A bot for vx based on RICQ framework!
-
+🔭 I am now Working on AI-Native
 🌱 Now learning  Java & Python | Algorithm
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Tools"/></div>
