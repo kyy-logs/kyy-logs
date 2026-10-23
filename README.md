@@ -27,14 +27,12 @@
 
 <h3 align="center">🌍 Open Source Contributions</h3>
 
-| Project | Pull Request | Change |
-| :-- | :-- | :-- |
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | [#2884](https://github.com/agentscope-ai/agentscope/pull/2884) ✅ | Removed an empty `_kimi` module left over from the Moonshot rename |
-| [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | [#3324](https://github.com/agentscope-ai/agentscope-java/pull/3324) ✅ | Reported a frontend tool's error as an `ERROR` tool result in AG-UI |
-| [JSQLParser/JSqlParser](https://github.com/JSQLParser/JSqlParser) | [#2653](https://github.com/JSQLParser/JSqlParser/pull/2653) ✅ | Fixed parsing of ClickHouse `APPLY` / `EXCEPT` / `EXCLUDE` / `REPLACE` after `*` |
-| [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | [#3361](https://github.com/agentscope-ai/agentscope-java/pull/3361) 🔄 | Made declared permission rules authoritative on every call (in review) |
-
-<sub>Merged contributions to 33k★ / 6k★ Java & Python agent projects.</sub>
+| Project | Stars | Pull Request | Change |
+| :-- | :-- | :-- | :-- |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | ![stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=flat-square) | [#2884](https://github.com/agentscope-ai/agentscope/pull/2884) ✅ | Removed an empty `_kimi` module left over from the Moonshot rename |
+| [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | ![stars](https://img.shields.io/github/stars/agentscope-ai/agentscope-java?style=flat-square) | [#3324](https://github.com/agentscope-ai/agentscope-java/pull/3324) ✅ | Reported a frontend tool's error as an `ERROR` tool result in AG-UI |
+| [JSQLParser/JSqlParser](https://github.com/JSQLParser/JSqlParser) | ![stars](https://img.shields.io/github/stars/JSQLParser/JSqlParser?style=flat-square) | [#2653](https://github.com/JSQLParser/JSqlParser/pull/2653) ✅ | Fixed parsing of ClickHouse `APPLY` / `EXCEPT` / `EXCLUDE` / `REPLACE` after `*` |
+| [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | ![stars](https://img.shields.io/github/stars/agentscope-ai/agentscope-java?style=flat-square) | [#3361](https://github.com/agentscope-ai/agentscope-java/pull/3361) 🔄 | Made declared permission rules authoritative on every call (in review) |
 
 <h3 align="center">❤️ Github Contribution</h3>
 
