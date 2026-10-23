@@ -25,6 +25,17 @@
 
 
 
+<h3 align="center">🌍 Open Source Contributions</h3>
+
+| Project | Pull Request | Change |
+| :-- | :-- | :-- |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | [#2884](https://github.com/agentscope-ai/agentscope/pull/2884) ✅ | Removed an empty `_kimi` module left over from the Moonshot rename |
+| [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | [#3324](https://github.com/agentscope-ai/agentscope-java/pull/3324) ✅ | Reported a frontend tool's error as an `ERROR` tool result in AG-UI |
+| [JSQLParser/JSqlParser](https://github.com/JSQLParser/JSqlParser) | [#2653](https://github.com/JSQLParser/JSqlParser/pull/2653) ✅ | Fixed parsing of ClickHouse `APPLY` / `EXCEPT` / `EXCLUDE` / `REPLACE` after `*` |
+| [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | [#3361](https://github.com/agentscope-ai/agentscope-java/pull/3361) 🔄 | Made declared permission rules authoritative on every call (in review) |
+
+<sub>Merged contributions to 33k★ / 6k★ Java & Python agent projects.</sub>
+
 <h3 align="center">❤️ Github Contribution</h3>
 
 <img src="https://raw.githubusercontent.com/kyy-logs/kyy-logs/snake/github-snake.svg"/>
